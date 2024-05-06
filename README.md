@@ -26,7 +26,7 @@ In the project directory, you can run the following scripts:
 - `npm start`: Runs the app in development mode.
 - `npm test`: Launches the test runner in interactive watch mode.
 - `npm run build`: Builds the app for production to the `build` folder.
-- 
+  
 ## Deployment
 
 You can find the deplyed version [here](https://shopper-admin-rust.vercel.app/addproduct).
